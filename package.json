@@ -1,0 +1,23 @@
+{
+  "name": "boilerplate-11ty-2.0.1",
+  "version": "1.0.0",
+  "description": "Boilerplate for a Deploy-Now-Starter-SSG with 11ty",
+  "main": ".eleventy.js",
+  "scripts": {
+      "install": "npm install @11ty/eleventy --save-dev",
+      "start": "npx @11ty/eleventy --serve --port=8888",
+      "clean": "rm -rf docs",
+      "deploy": "npx @11ty/eleventy --pathprefix=/",
+      "deploy-subdomain": "npx @11ty/eleventy --pathprefix=/subdirectory/"
+  },
+    "keywords": [
+	"Deploy Now Starter",
+	"11ty",
+	"saschathiele"
+    ],
+  "author": "Sascha Thiele <saschathiele@outlook.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  }
+}
