@@ -4,5 +4,5 @@ module.exports = function (eleventyConfig) {
 	    input: "code",
 	    output: "docs"
 	}
-    }
-}
+    };
+};
