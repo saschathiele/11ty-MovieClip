@@ -1,0 +1,10 @@
+body {
+    background-image: url('/img/pexels-sascha-thiele-221815-747016.jpg');
+    background-size: 100vw 100vh;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
