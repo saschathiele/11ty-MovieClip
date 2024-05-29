@@ -1,0 +1,33 @@
+---
+👋 Hi dear friend and/or visitor,
+obviuosly I'm still in dev with this,
+but feel free to check out what I've got so far ...
+---
+
+* First of all ...
+
+** 01. Thank you 11ty - Team
+https://www.11ty.dev/
+
+** 02. Thank you 11ty - Community
+https://conf.11ty.dev/
+
+** 03. Thank you 11ty - YouTubers
+
+* Here we go ...
+
+** 01. Installation
+
+#+begin_src shell :results output
+
+  npm install
+
+#+end_src
+
+** 02. Initiation
+
+#+begin_src shell :results output
+
+  npm start
+
+#+end_src
