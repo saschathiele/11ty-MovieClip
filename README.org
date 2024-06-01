@@ -6,11 +6,11 @@ but feel free to check out what I've got so far...
 
 * First of all ...
 
-** Thank you 11ty - Team   https://www.11ty.dev/
-** Thank you 11ty - Community   https://conf.11ty.dev/
-** Thank you 11ty - YouTubers
+** 🎈 Thank you 11ty - Team   https://www.11ty.dev/
+** 🎈 Thank you 11ty - Community   https://conf.11ty.dev/
+** 🎈 Thank you 11ty - YouTubers:
 
-* Here we go ...
+* Here we go ... 🦡
 
 ** 01. Installation
 
