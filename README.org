@@ -8,11 +8,11 @@ but feel free to check out what I've got so far...
 **** 🎈 Thank you 11ty - Team:   https://www.11ty.dev/
 **** 🎈 Thank you 11ty - Community:   https://conf.11ty.dev/
 **** 🎈 Thank you 11ty - YouTubers:
-***** Jaydan Urwin - https://www.youtube.com/@jaydanurwin
-***** Jonathan MirCha - https://www.youtube.com/@jonmircha
+*****      Jaydan Urwin - https://www.youtube.com/@jaydanurwin
+*****      Jonathan MirCha - https://www.youtube.com/@jonmircha
 **** 💟 Thank you Emacs and GNU/Linux:
-***** RMS - https://www.youtube.com/watch?v=jkXUvxd49Ns
-***** David Wilson - https://www.youtube.com/@SystemCrafters
+*****      RMS - https://www.youtube.com/watch?v=jkXUvxd49Ns
+*****      David Wilson - https://www.youtube.com/@SystemCrafters
 
 
 
