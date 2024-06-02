@@ -19,7 +19,7 @@ env:
 jobs:
 # Please do not rename this job
   build-project:
-    name: build boilerplate-11ty-2.0.1
+    name: build 11ty-MovieClip
     runs-on: ubuntu-latest
     steps:
       - name: checkout
@@ -48,5 +48,5 @@ jobs:
           branch-id: ${{ inputs.branch-id }}
           version: ${{ github.sha }}
           folder: ${{ env.DEPLOYMENT_FOLDER }}
-          config-file: .deploy-now/boilerplate-11ty-2.0.1/config.yaml
+          config-file: .deploy-now/11ty-MovieClip/config.yaml
           action: upload
