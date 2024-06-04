@@ -2,9 +2,46 @@ body {
     background-image: url('/img/pexels-sascha-thiele-221815-747016.jpg');
     background-size: 100vw 100vh;
     background-repeat: no-repeat;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 400;
 }
 
 h1 {
     text-align: center;
     color: white;
+}
+
+p,a {
+    text-align: center;
+    margin: 0;
+    color: white;
+}
+
+a {
+    margin: 0;
+    color: white;
+}
+
+.scroll-container {
+  width: 99vw;
+  height: 25vh;
+  overflow-y: scroll;
+  scroll-behavior: smooth;
+  margin-top: 33vh;
+}
+
+.scroll-page {
+  height: 2vh;
+}
+
+.publication {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: baseline;
+    background: rgb(0, 0, 0, 0.4);
+    border-radius: 15px;
+    padding: 4px 20px;
+    margin-bottom: 4px;
 }
