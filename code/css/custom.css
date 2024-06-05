@@ -24,10 +24,10 @@ a {
 
 .scroll-container {
   width: 99vw;
-  height: 25vh;
+  height: 50vh;
   overflow-y: scroll;
   scroll-behavior: smooth;
-  margin-top: 33vh;
+  margin-top: 1vh;
 }
 
 .scroll-page {
