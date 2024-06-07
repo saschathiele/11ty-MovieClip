@@ -51,7 +51,7 @@ a {
 ########### MEDIA QUERIES ##########
 */
 
-@media (max-width: 1250px) {
+@media all and (max-width: 1250px) {
     body {
         font-weight: 300;
     }
