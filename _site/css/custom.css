@@ -46,3 +46,14 @@ a {
     padding: 4px 20px;
     margin-bottom: 4px;
 }
+
+/* 
+########### MEDIA QUERIES ##########
+*/
+
+@media (max-width: 1250px) {
+    body {
+        font-weight: 300;
+    }
+}
+
