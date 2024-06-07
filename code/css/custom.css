@@ -56,3 +56,16 @@ a {
         font-weight: 300;
     }
 }
+
+@media all and (max-width: 1024px) {
+    .publication {
+        flex-direction: column;
+        flex-wrap: nowrap;
+        justify-content: center;
+        align-items: center;
+        padding: 50px;
+        p{
+            padding: 3px;
+        }
+    }
+}
