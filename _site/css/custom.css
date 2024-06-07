@@ -58,6 +58,9 @@ a {
 }
 
 @media all and (max-width: 1024px) {
+    h1 {font-size: x-large;}
+    h2 {font-size: larger;}
+    h3 {font-size: medium;}
     .publication {
         flex-direction: column;
         flex-wrap: nowrap;
