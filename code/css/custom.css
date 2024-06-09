@@ -72,3 +72,10 @@ a {
         }
     }
 }
+
+/* 
+########### ANIMATIONS ##########
+*/
+
+.email {animation: prestaMeAtencion 1s alternate infinite ease-in;}
+@keyframes prestaMeAtencion { 100% {transform: scale(1.03);} }
