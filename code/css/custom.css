@@ -57,7 +57,7 @@ a {
     }
 }
 
-@media all and (max-width: 1024px) {
+@media all and (max-width: 1050px) {
     h1 {font-size: x-large;}
     h2 {font-size: larger;}
     h3 {font-size: medium;}
@@ -69,6 +69,22 @@ a {
         padding: 50px;
         p{
             padding: 3px;
+        }
+    }
+}
+
+@media all and (max-width: 750px) {
+    .publication {
+        p{
+            padding: 2px;
+        }
+    }
+}
+
+@media all and (max-width: 450px) {
+    .publication {
+        p{
+            padding: 1px;
         }
     }
 }
