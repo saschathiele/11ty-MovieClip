@@ -8,14 +8,14 @@ body {
 
 h1,h2,h3,h4 {
     text-align: center;
-    margin: 0;
     color: white;
+    margin: 0;
 }
 
 p,a {
     text-align: center;
-    margin: 0;
     color: white;
+    margin: 0;
 }
 
 .scroll-container {
@@ -56,7 +56,7 @@ p,a {
 }
 @media all and (max-width: 750px) {.publication {p{padding:2px;}}}
 @media all and (max-width: 450px) {.publication {p{padding:1px;}}}
-@media all and (max-width: 350px) {.publication {p{padding:0px;}}}
+@media all and (max-width: 350px) {.publication {p{padding:0;}}}
 
 /* ########### ANIMATIONS ########## */
 .email {animation:prestaMeAtencion 1s alternate infinite ease-in;}
