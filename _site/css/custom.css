@@ -41,7 +41,6 @@ p,a {
 
 /* ########### MEDIA QUERIES ########## */
 @media all and (max-width: 1250px) {body {font-weight:300;}}
-
 @media all and (max-width: 1050px) {
     h1 {font-size: x-large;}
     h2 {font-size: larger;}
@@ -55,7 +54,6 @@ p,a {
         p{padding: 3px;}
     }
 }
-
 @media all and (max-width: 750px) {.publication {p{padding:2px;}}}
 @media all and (max-width: 450px) {.publication {p{padding:1px;}}}
 @media all and (max-width: 350px) {.publication {p{padding:0px;}}}
