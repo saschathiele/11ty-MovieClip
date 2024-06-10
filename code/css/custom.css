@@ -15,7 +15,6 @@ p,a {
     color: white;
     margin: 0;
 }
-
 .scroll-container {
   width: 99vw;
   height: 50vh;
@@ -53,11 +52,15 @@ p,a {
         p{padding: 3px;}
     }
 }
-@media all and (max-width: 750px) {.publication {p{padding:2px;}}}
-@media all and (max-width: 450px) {.publication {p{padding:1px;}}}
+@media all and (max-width: 750px) {.publication   {p{padding:2px;}}}
+@media all and (max-width: 450px) {.scroll-container {height: 33vh;}
+                                   .publication   {p{padding:1px;}}}
 @media all and (max-width: 400px) {body{font-size: small;}}
-@media all and (max-width: 300px) {body{font-size: x-small;}}
-
+@media all and (max-width: 300px) {body{font-size: x-small;}
+                                   h1 {font-size: large;}
+                                   h2 {font-size: medium;}
+                                   h3 {font-size: small;}
+                                   .scroll-container{height: 20vh;}}
 /* ########### ANIMATIONS ########## */
 .email {animation:prestaMeAtencion 1s alternate infinite ease-in;}
 @keyframes prestaMeAtencion { 100% {transform: scale(1.03);} }
