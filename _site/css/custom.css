@@ -39,6 +39,10 @@ p,a {
 @media all and (min-width: 1950px) {body {font-weight:700;}}
 @media all and (min-width: 1650px) {body {font-weight:500;}}
 @media all and (max-width: 1250px) {body {font-weight:300;}}
+@media all and (min-width: 1450px) {
+    .publication {
+        display: grid; 
+        grid-template-columns: 10% 25% 55% 10%;}}
 @media all and (max-width: 1050px) {
     h1 {font-size: x-large;}
     h2 {font-size: larger;}
@@ -49,9 +53,7 @@ p,a {
         justify-content: center;
         align-items: center;
         padding: 50px;
-        p{padding: 3px;}
-    }
-}
+        p{padding: 3px;}}}
 @media all and (max-width: 750px) {.publication   {p{padding:2px;}}}
 @media all and (max-width: 450px) {.scroll-container {height: 33vh;}
                                    .publication   {p{padding:1px;}}}
@@ -61,6 +63,7 @@ p,a {
                                    h2 {font-size: medium;}
                                    h3 {font-size: small;}
                                    .scroll-container{height: 20vh;}}
+
 /* ########### ANIMATIONS ########## */
 .email {animation:prestaMeAtencion 1s alternate infinite ease-in;}
 @keyframes prestaMeAtencion { 100% {transform: scale(1.03);} }
