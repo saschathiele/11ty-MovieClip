@@ -4,8 +4,16 @@
 	{% include 'head.njk' %}
     </head>
     <body>
-	<header>{{ content | safe  }}</header>
-	<main>{% include 'photo-credits.njk' %}</main>
-        <footer>{% include 'footer.njk' %}</footer>
+        <header>
+	  {{ content | safe }}
+	    {% include 'components/picture.njk' %}
+	    {% include 'components/hero-section.njk' %}
+	</header>
+	<main>
+	    {% include 'photo-credits.njk' %}
+	</main>
+        <footer>
+	    {% include 'footer.njk' %}
+	</footer>
     </body>
 </html>
