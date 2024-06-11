@@ -38,11 +38,11 @@ p,a {
 /* ########### MEDIA QUERIES ########## */
 @media all and (min-width: 1950px) {body {font-weight:700;}}
 @media all and (min-width: 1650px) {body {font-weight:500;}}
-@media all and (max-width: 1250px) {body {font-weight:300;}}
 @media all and (min-width: 1350px) {
     .publication {
         display: grid; 
         grid-template-columns: 10% 25% 55% 10%;}}
+@media all and (max-width: 1250px) {body {font-weight:300;}}
 @media all and (max-width: 1050px) {
     h1 {font-size: x-large;}
     h2 {font-size: larger;}
