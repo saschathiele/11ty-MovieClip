@@ -36,7 +36,8 @@ p,a {
 }
 
 /* ########### MEDIA QUERIES ########## */
-@media all and (min-width: 1950px) {body {font-weight:700;}}
+@media all and (min-width: 1950px) {body {font-weight:700;}
+                                 .pulseBtn {display: none;}}
 @media all and (min-width: 1650px) {body {font-weight:500;}}
 @media all and (min-width: 1350px) {
     .publication {
@@ -53,72 +54,73 @@ p,a {
         justify-content: center;
         align-items: center;
         padding: 50px;
-        p{padding: 3px;}}}
+        p{padding: 3px;}
+    }
+}
 @media all and (max-width: 750px) {.publication   {p{padding:2px;}}}
 @media all and (max-width: 450px) {.scroll-container {height: 33vh;}
                                    .publication   {p{padding:1px;}}}
+@media all and (max-width: 450px) {.pulseBtn       {display: none;}}
 @media all and (max-width: 400px) {body{font-size: small;}}
 @media all and (max-width: 300px) {body{font-size: x-small;}
                                    h1 {font-size: large;}
                                    h2 {font-size: medium;}
                                    h3 {font-size: small;}
                                    .scroll-container{height: 20vh;}}
-
+                                   
 /* ########### ANIMATIONS ########## */
 .email {animation:prestaMeAtencion 1s alternate infinite ease-in;}
 @keyframes prestaMeAtencion { 100% {transform: scale(1.03);} }
+
+.pulseBtn {
+z-index: 10;
+background: transparent;
+border: 0;
+padding: 1rem;
+border-radius: 2rem;
+font-size: 1rem;
+-moz-animation: pulse 2s infinite;
+-webkit-animation: pulse 2s infinite;
+animation: pulse 2s infinite;
+}
+@keyframes pulse {
+    0%   {box-shadow: 0 0 0 0    rgba(128, 128, 128, 1);}
+    70%  {box-shadow: 0 0 0 10px rgba(128, 128, 128, 0);}
+    100% {box-shadow: 0 0 0 50px rgba(128, 128, 128, 0);}
+}
 
 /* ########### POPOVER ########## */
 [popover]:popover-open {
   opacity: 1;
   transform: scaleX(1);
 }
-
 [popover] {
   font-size: 1rem;
   padding: 10px;
-
-  /* Final state of the exit animation */
   opacity: 0;
   transform: scaleX(0);
-
   transition:
     opacity 0.7s,
     transform 0.7s,
     overlay 0.7s allow-discrete,
     display 0.7s allow-discrete;
-  /* Equivalent to
-  transition: all 0.7s allow-discrete; */
 }
-
-/* Needs to be included after the previous [popover]:popover-open
-   rule to take effect, as the specificity is the same */
 @starting-style {
   [popover]:popover-open {
     opacity: 0;
     transform: scaleX(0);
   }
 }
-
-/* Transition for the popover's backdrop */
-
 [popover]::backdrop {
   background-color: rgb(0 0 0 / 0%);
   transition:
     display 0.7s allow-discrete,
     overlay 0.7s allow-discrete,
     background-color 0.7s;
-  /* Equivalent to
-  transition: all 0.7s allow-discrete; */
 }
-
 [popover]:popover-open::backdrop {
   background-color: rgb(0 0 0 / 66%);
 }
-
-/* Nesting selectors (&) cannot represent pseudo-elements, so this 
-   starting-style rule cannot be nested. */
-
 @starting-style {
   [popover]:popover-open::backdrop {
     background-color: rgb(0 0 0 / 0%);
