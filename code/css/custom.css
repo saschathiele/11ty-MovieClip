@@ -4,6 +4,7 @@ body {
     background-repeat: no-repeat;
     font-family: "Ubuntu", sans-serif;
     font-weight: 400;
+    overflow: hidden;
 }
 h1,h2,h3,h4 {
     text-align: center;
