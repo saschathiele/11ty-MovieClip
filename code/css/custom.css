@@ -89,6 +89,23 @@ animation: pulse 2s infinite;
     100% {box-shadow: 0 0 0 50px rgba(128, 128, 128, 0);}
 }
 
+@keyframes fadeInUpFast {
+  0% {transform: translateY(100%);opacity: 0;}
+  100% {transform: translateY(0%);opacity: 1;}
+}.fadeInUpFast-animation {animation: 0.8s fadeInUpFast;}
+@keyframes fadeInUpNormal {
+  0% {transform: translateY(100%);opacity: 0;}
+  100% {transform: translateY(0%);opacity: 1;}
+}.fadeInUpNormal-animation {animation: 1s fadeInUpNormal;}
+@keyframes fadeInUpSlow {
+  0% {transform: translateY(100%);opacity: 0;}
+  100% {transform: translateY(0%);opacity: 1;}
+}.fadeInUpSlow-animation {animation: 1.2s fadeInUpSlow;}
+@keyframes fadeInUpSlower {
+  0% {transform: translateY(100%);opacity: 0;}
+  100% {transform: translateY(0%);opacity: 1;}
+}.fadeInUpSlower-animation {animation: 2.4s fadeInUpSlower;}
+
 /* ########### POPOVER ########## */
 [popover]:popover-open {
   opacity: 1;
