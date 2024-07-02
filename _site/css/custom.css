@@ -91,6 +91,15 @@ animation-delay: 1.4s;
     100% {box-shadow: 0 0 0 50px rgb(128 128 128 / 0);}
 }
 
+.cam:hover{animation: tilt-n-move-shaking 0.25s linear infinite;}
+@keyframes tilt-n-move-shaking {
+  0% { transform: translate(0, 0) rotate(0deg); }
+  25% { transform: translate(5px, 5px) rotate(5deg); }
+  50% { transform: translate(0, 0) rotate(0eg); }
+  75% { transform: translate(-5px, 5px) rotate(-5deg); }
+  100% { transform: translate(0, 0) rotate(0deg); }
+}
+
 @keyframes fadeInUpFast {
   0% {transform: translateY(100%);opacity: 0;}
   100% {transform: translateY(0%);opacity: 1;}
