@@ -6,6 +6,7 @@
     <body>
         <header>
 	  {{ content | safe }}
+            {% include 'menu.njk' %}
 	    {% include 'components/popover.njk' %}
 	    {% include 'components/hero-section.njk' %}
 	</header>
