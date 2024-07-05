@@ -24,7 +24,7 @@ p,a {
   margin-top: 1vh;
 }
 .scroll-page {height: 2vh;}
-.photoCredit {
+.publication {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
