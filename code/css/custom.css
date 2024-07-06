@@ -59,9 +59,19 @@ p,a {
     }
 }
 @media all and (max-width: 750px) {.publication   {p{padding:2px;}}}
-@media all and (max-width: 450px) {.scroll-container {height: 33vh;}
+@media all and (max-width: 450px) {.cam{position: absolute !important; 
+                                        left: 50% !important;
+                                        top: 20px !important;
+                                        transform: translate(-50%);}
+                                   .cam:hover{animation: paused !important;}
+                                   .pulseBtn {display: none;}
+                                   picture{position: absolute !important; 
+                                           left: 50% !important;
+                                           top: 80px !important;
+                                           transform: translate(-50%);
+                                           cursor: pointer;}
+                                   .scroll-container {height: 33vh;}
                                    .publication   {p{padding:1px;}}}
-@media all and (max-width: 450px) {.pulseBtn       {display: none;}}
 @media all and (max-width: 400px) {body{font-size: small;}}
 @media all and (max-width: 300px) {body{font-size: x-small;}
                                    h1 {font-size: large;}
