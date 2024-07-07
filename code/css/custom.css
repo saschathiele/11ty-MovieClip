@@ -37,8 +37,13 @@ p,a {
 }
 
 /* ########### MEDIA QUERIES ########## */
-@media all and (min-width: 1950px) {body {font-weight:700;}
-                                 .pulseBtn {display: none;}}
+@media all and (min-width: 1950px) {body { font-weight:700; 
+                                           font-size: x-large; }
+                                    picture { cursor: pointer; }
+                                    .pulseBtn { display: none; }
+                                    .publication {
+                                     padding: 0.4rem 0 0.8rem 0;}
+                                    svg{width:2rem;height:2rem;}}
 @media all and (min-width: 1650px) {body {font-weight:500;}}
 @media all and (min-width: 1350px) {
     .publication {
