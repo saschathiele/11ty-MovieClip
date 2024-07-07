@@ -41,13 +41,12 @@ p,a {
                                            font-size: x-large; }
                                     picture { cursor: pointer; }
                                     .pulseBtn { display: none; }
-                                    .publication {
-                                     padding: 0.4rem 0 0.8rem 0;}
                                     svg{width:2rem;height:2rem;}}
 @media all and (min-width: 1650px) {body {font-weight:500;}}
 @media all and (min-width: 1350px) {
     .publication {
-        display: grid; 
+        display: grid;
+        padding: 0.4rem 0 0.8rem 0;
         grid-template-columns: 10% 25% 55% 10%;}}
 @media all and (max-width: 1250px) {body {font-weight:300;}}
 @media all and (max-width: 1050px) {
