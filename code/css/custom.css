@@ -43,7 +43,8 @@ p,a {
                                     .pulseBtn { display:  none; }
                                     svg{width:2rem;height:2rem;}}
 @media all and (min-width: 1650px) {body { font-weight:    500; 
-                                           font-size:    large;}}
+                                           font-size:    large;}
+                                    svg{width:1.5rem;height:1.5rem;}}
 @media all and (min-width: 1350px) {
     .publication {
         display: grid;
