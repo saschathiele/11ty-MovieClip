@@ -48,8 +48,9 @@ p,a {
 @media all and (min-width: 1350px) {
     .publication {
         display: grid;
-        padding: 0.4rem 0 0.8rem 0;
-        grid-template-columns: 10% 25% 55% 10%;}}
+        padding: 0.4rem 0 1rem 2rem;
+        grid-template-columns: 15% 30% 50% 5%;
+        :nth-child(1),:nth-child(2),:nth-child(3){text-align: left;}}}
 @media all and (max-width: 1250px) {body {font-weight:300;}}
 @media all and (max-width: 1050px) {
     h1 {font-size: x-large;}
