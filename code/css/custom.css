@@ -91,6 +91,29 @@ p,a {
 .email {animation:prestaMeAtencion 1s alternate infinite ease-in;}
 @keyframes prestaMeAtencion { 100% {transform: scale(1.03);} }
 
+.closeBtn {
+  height: 25px;
+  width: 30px;
+  position: relative;
+  box-sizing: border-box;
+  display: inline-block;
+}
+.closeBtn:before, .closeBtn:after {
+  transform: rotate(-45deg);
+  content: '';
+  position: absolute;
+  display: block;
+  left: 50%;
+  top: 50%;
+  margin-left: -0.5rem;
+  height: 3px;
+  width: 18px;
+  background-color: black;
+  transition: all 0.25s ease-out;
+}
+.closeBtn:after {transform: rotate(-135deg);}
+.closeBtn:hover:before, .closeBtn:hover:after {transform: rotate(0deg);}
+
 .pulseBtn {
 z-index: 10;
 background: transparent;
