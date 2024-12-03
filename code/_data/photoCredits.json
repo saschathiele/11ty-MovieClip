@@ -2,24 +2,36 @@
     "message": "no claim to accuracy or correctness of the following list or page content shown on the respective websites",
     "linksDoc": [
         {
+	    "date": "29.11.2024",
+	    "publicist": "IDN TIMES, Indonesia",
+	    "title": "Indonesia Komitmen Perkuat Kerja Sama dengan Pasifik",
+	    "url": "https://www.idntimes.com/news/world/sonya-michaella/indonesia-komitmen-perkuat-kerja-sama-dengan-pasifik?page=all"
+	},
+	{
 	    "date": "24.11.2024",
 	    "publicist": "Mia Della Vita, MSN, Indonesia",
 	    "title": "5 Shio Paling Suka Healing ke Pantai, Senang Mendengarkan Suara Ombak dan Angin",
 	    "url": "https://www.msn.com/id-id/berita/other/5-shio-paling-suka-healing-ke-pantai-senang-mendengarkan-suara-ombak-dan-angin/ar-AA1uDO5v"
 	},
 	{
+	    "date": "19.11.2024",
+	    "publicist": "IDN TIMES BALI, Indonesia",
+	    "title": "Tips Memancing Aman di Laut ala Basarnas Bali",
+	    "url": "https://bali.idntimes.com/life/education/ayu-afria-ulita-ermalia/tips-memancing-aman-di-laut-ala-basarnas-bali"
+	},
+        {
 	    "date": "07.11.2024",
 	    "publicist": "Raelyn Pracht, Writer. Reader. Lifetime Learner. , USA",
 	    "title": "Sometimes",
 	    "url": "https://raelynpracht.com/2024/11/07/sometimes/"
 	},
-	{
+        {
 	    "date": "04.11.2024",
 	    "publicist": "Adjar.ID, Indonesia",
 	    "title": "Daftar 40 Kosakata dalam Bahasa Inggris yang Berkaitan dengan Pantai",
 	    "url": "https://adjar.grid.id/read/544175994/daftar-40-kosakata-dalam-bahasa-inggris-yang-berkaitan-dengan-pantai?page=all"
 	},
-	{
+        {
 	    "date": "30.10.2024",
 	    "publicist": "BORS online, Hungary",
 	    "title": "Valóságos csoda: több mint egy évig hánykolódott a tengeren, mégis túlélte",
@@ -37,7 +49,13 @@
 	    "title": "Gelombang perairan di DIY capai 2,5 meter",
 	    "url": "https://jogja.idntimes.com/news/jogja/febriana-sintasari/bmkg-perkirakan-cuaca-di-diy-didominasi-hujan-disertai-petir?page=all#page-2"
 	},
-        {
+	{
+	    "date": "13.10.2024",
+	    "publicist": "Front Page Detectives, USA",
+	    "title": "Researchers Find Huge Prehistoric Seafloor That Sank Beneath the Pacific Ocean",
+	    "url": "https://www.frontpagedetectives.com/latest-news/researchers-find-huge-prehistoric-seafloor-that-sank-beneath-the-pacific-ocean"
+	},
+	{
 	    "date": "10.10.2024",
 	    "publicist": "CONOWEGO, Poland",
 	    "title": "Nanostruktury znalezione w głębinach morskich generują energię bez życia?",
@@ -55,13 +73,13 @@
 	    "title": "The Story of Creation - Day 1 - Discussion Questions",
 	    "url": "https://www.learnenglishwiththebible.com/the-story-of-creation-day-1-discussion-questions/"
 	},
-        {
+	{
 	    "date": "12.09.2024",
 	    "publicist": "쭈미로운 생활, (주)카카오, South Korea",
 	    "title": "엘니뇨와 라니냐 이해하기",
 	    "url": "https://beecon.tistory.com/entry/%EC%97%98%EB%8B%88%EB%87%A8%EC%99%80-%EB%9D%BC%EB%8B%88%EB%83%90-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0#section-1"
 	},
-        {
+	{
 	    "date": "23.08.2024",
 	    "publicist": "Shareably Media, USA",
 	    "title": "To be pacific",
@@ -73,20 +91,19 @@
 	    "title": "When Oceans Collide: What Happens When the Atlantic and Pacific Meet",
 	    "url": "https://www.msn.com/en-us/weather/topstories/when-oceans-collide-what-happens-when-the-atlantic-and-pacific-meet/ar-AA1pdPTm?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1"
 	},
-        {
+	{
 	    "date": "22.08.2024",
 	    "publicist": "Front Page Detectives, USA",
 	    "title": "When Oceans Collide: What Happens When the Atlantic and Pacific Meet",
 	    "url": "https://www.frontpagedetectives.com/latest-news/when-oceans-collide-what-happens-when-the-atlantic-and-pacific-meet#figure-image"
 	},
 	{
-        {
 	    "date": "29.06.2024",
 	    "publicist": "Wonderful Jesus!",
 	    "title": "But You Shall Receive Power! Revised!",
 	    "url": "https://wonderfuljesus.blog/blogs/#post-5835"
 	},
-        {
+	{
 	    "date": "28.06.2024",
 	    "publicist": "ST. PROCOPIUS ABBEY - Abbot Austin G. Murphy, OSB",
 	    "title": "WANTS, WORRIES, AND WATER",
@@ -114,7 +131,7 @@
 	    "date": "14.06.2024",
 	    "publicist": "Bored Panda, Lithuania",
 	    "title": "Your Brain Just Ignores It: 59 People Share The Most Ridiculous Fact They Know",
-	    "url": "https://www.boredpanda.com/people-share-ridiculous-fact/"
+	    "url": "https://www.boredpanda.com/people-share-ridiculous-fact/#post6"
 	},
 	{
 	    "date": "28.05.2024",
@@ -135,12 +152,18 @@
 	    "url": "https://www.epochtimes.sk/slovensko-ako-vlastnik-casti-ticheho-oceanu-zaplatilo-za-jeho-vyskum-viac-ako-71-miliona-eur_13415.html"
 	},
 	{
+	    "date": "29.04.2024",
+	    "publicist": "the shy reveal, USA",
+	    "title": "The Illusion of Safety: Why It’s So Hard To Change",
+	    "url": "https://theshyreveal.substack.com/p/the-illusion-of-safety-why-its-so?utm_campaign=post&utm_medium=web"
+	},
+	{
 	    "date": "30.03.2024",
 	    "publicist": "USA Tales Network",
 	    "title": "Geographical Considerations for the Distance Between Alaska and Russia",
 	    "url": "https://usatales.com/geographical-considerations-for-the-distance-between-alaska-and-russia/"
 	},
-        {
+	{
 	    "date": "27.03.2024",
 	    "publicist": "Climate Crisis 247, NY, USA",
 	    "title": "Dubai, Without Water, Makes Its Own",
@@ -170,7 +193,7 @@
 	    "title": "'MINDFUL TRAVEL - FINDING PEACE IN SERENE AND SECLUDED SPOTS': TRAVEL WITH DE MODE",
 	    "url": "https://www.demodemagazine.com/mindful-travel-finding-peace-in-serene-and-secluded-spots-travel-with-de-mode"
 	},
-        {
+	{
 	    "date": "19.02.2024",
 	    "publicist": "Chilling Seals, Bahamas",
 	    "title": "Understanding Sea Lion Populations And Human Activities",
@@ -188,13 +211,13 @@
 	    "title": "Se siente como un sueño",
 	    "url": "https://revistalatinanc.com/2024/01/18/se-siente-como-un-sueno/"
 	},
-        {
+	{
 	    "date": "15.01.2024",
 	    "publicist": "l’Histoire par les femmes",
 	    "title": "Anita Conti, océanographe pionnière",
 	    "url": "https://histoireparlesfemmes.com/2024/01/15/anita-conti-oceanographe-pionniere/"
 	},
-        {
+	{
 	    "date": "03.01.2024",
 	    "publicist": "IDN TIMES LAMPUNG, Indonesia",
 	    "title": "Sebagian besar tsunami terjadi di Samudra Pasifik",
@@ -230,7 +253,7 @@
 	    "title": "Aprobado opinión positiva a iniciativa que plantea democratizar la política nacional marítima",
 	    "url": "https://cambio33.com/aprueba-comision-de-marina-opinion-positiva-a-iniciativa-que-plantea-democratizar-la-politica-nacional-maritima/"
 	},
-        {
+	{
 	    "date": "07.06.2023",
 	    "publicist": "Bobo.id, Jakarta, Indonesia",
 	    "title": "El Nino di Indonesia Memicu Fenomena Alam Indian Ocean Dipole, Apa Itu?",
@@ -290,7 +313,7 @@
 	    "title": "¿Qué es el “agujero negro” encontrado en el Océano Pacífico gracias a Google Maps?",
 	    "url": "https://eldiariony.com/2022/12/15/que-es-el-agujero-negro-encontrado-en-el-oceano-pacifico-gracias-a-google-maps/"
 	},
-        {
+	{
 	    "date": "11.12.2022",
 	    "publicist": "SOUNDCLOUD, Jeff Sampson (too)",
 	    "title": "Ocean (with Sara Ayers)",
@@ -332,19 +355,19 @@
 	    "title": "Prakiraan Tinggi Gelombang 11 Agustus 2022",
 	    "url": "https://sulteng.pikiran-rakyat.com/nasional/pr-2605241440/prakiraan-tinggi-gelombang-11-agustus-2022?page=all"
 	},
-        {
+	{
 	    "date": "04.08.2022",
 	    "publicist": "NATURE WORLD NEWS, USA",
 	    "title": "Novel Technology May Help Combat Climate Crisis",
 	    "url": "https://www.natureworldnews.com/articles/52368/20220804/novel-technology-may-help-combat-climate-crisis.htm#gpt_lazyload1"
 	},
-        {
+	{
 	    "date": "15.07.2022",
 	    "publicist": "Medium.com",
 	    "title": "Life’s Waves - Mind’s Crest",
 	    "url": "https://medium.com/ipoetry/lifes-waves-a256ba0c1e0a"
 	},
-        {
+	{
 	    "date": "19.06.2022",
 	    "publicist": "SOUNDCLOUD, Sara Ayers + Jeff Sampson",
 	    "title": "Elegy For A Drowning World",
@@ -356,7 +379,7 @@
 	    "title": "This Digital Transformation WILL be user driven.",
 	    "url": "https://realhardman.medium.com/this-digital-transformation-will-be-user-driven-67a120afc2be"
 	},
-        {
+	{
 	    "date": "03.03.2022",
 	    "publicist": "Bobo.id, Jakarta, Indonesia",
 	    "title": "Inilah Rahasia Lautan yang Jarang Orang Tahu",
@@ -380,7 +403,7 @@
 	    "title": "Grieving the Holiday’s",
 	    "url": "https://lisarenedelgado.org/2021/12/13/grieving-the-holidays/"
 	},
-        {
+	{
 	    "date": "24.11.2021",
 	    "publicist": "Bobo.id, Jakarta, Indonesia",
 	    "title": "3 Fakta Unik Samudra Pasifik, Salah Satunya Pernah Terjadi Badai Terkuat yang Pernah Ada",
@@ -392,7 +415,7 @@
 	    "title": "Peringatan, Tinggi Gelombang Bisa Sampai 4 Meter, dari Selat Bali hingga Sunda",
 	    "url": "https://potensibadung.pikiran-rakyat.com/nasional/pr-1622429956/peringatan-bmkg-tinggi-gelombang-bisa-sampai-4-meter-dari-selat-bali-hingga-sunda?page=all"
 	},
-        {
+	{
 	    "date": "12.08.2021",
 	    "publicist": "Pikiran Rakyat Media Network, Indonesia",
 	    "title": "BMKG Peringatkan Gelombang Tinggi Lebih dari 6 Meter pada 12-13 Agustus 2021",
@@ -440,13 +463,13 @@
 	    "title": "Donations pour in for family of worker who drowned while saving for children",
 	    "url": "https://dutchreview.com/news/140k-and-counting-donations-pour-in-for-family-of-polish-worker-who-drowned-while-saving-three-children/"
 	},
-        {
+	{
 	    "date": "16.06.2020",
 	    "publicist": "World Of Free Music- Copyright Free Music",
 	    "title": "Sappheiros - Falling (Ft. eSoreni) Chill Music ( Copyright Free )",
 	    "url": "https://www.youtube.com/watch?v=7CRx--FyjlY"
 	},
-        {
+	{
 	    "date": "02.02.2020",
 	    "publicist": "10 BESTEST, Karen McFarlane Holman & Brian Hart",
 	    "title": "Podcast: Episode 146",
@@ -470,7 +493,7 @@
 	    "title": "Pascal Junior - Holdin On # (Selected by zac)",
 	    "url": "https://www.youtube.com/watch?v=9mg47171r1g"
 	},
-        {
+	{
 	    "date": "07.06.2019",
 	    "publicist": "Medium.com / Echoes of the Soul",
 	    "title": "Sinking | A Poem by Heather Ann",
